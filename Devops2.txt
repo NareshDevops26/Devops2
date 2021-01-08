@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+i'm atending the interview 
+will get the job this month i.e jan 2020
+=======
+Hi hello
+world have a nice day
+Have a nice day baby!
+>>>>>>> Prod
